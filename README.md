@@ -71,7 +71,7 @@ This Power BI dashboard offers a clear, interactive view of unemployment in Indi
 
 ## 📌 Tech Stack
 
-- **Tool**: Power BI
+- **Tool**: Power BI, Python, Pandas, Scikit-learn, Matplotlib
 - **Language**: Data cleaning & preparation in Python / Excel
 - **Visualization**: Charts, KPIs, Maps
 
