@@ -11,7 +11,6 @@ This project presents a comprehensive **Power BI Dashboard** visualizing **unemp
 - Contrast rural vs. urban employment.
 - Identify consistent or seasonal trends in unemployment.
 - Enable **evidence-based decision-making** for policies.
-
 ---
 
 ## 📁 Dataset Overview
