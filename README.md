@@ -79,6 +79,6 @@ This Power BI dashboard offers a clear, interactive view of unemployment in Indi
 
 ## 📎 Author
 
-**Sri Pragnya**  
+**TETALA BHANU SURYA DURGA REDDY**,**Nichenakolla Sri Pragnya**,**VADALI PRABHAS MALLIK**.
 📍 Andhra Pradesh, India  
-📧 [Insert your email or LinkedIn if you wish]  
+📧 durgareddytetala39@gmail.com,sripragnya27.n@gmail.com,prabhasmallik886@gmail.com
